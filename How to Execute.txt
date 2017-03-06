@@ -1,0 +1,10 @@
+Executing the file
+
+1. LC3 Edit.exe Click
+2. Open a file (Write codes)
+3. save labx.asm
+4. assemble
+5. simulate.exe click (check if memory location is x3000)
+6. load program (labx.obj check the extension)
+7. run
+8. check console
